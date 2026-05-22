@@ -1,5 +1,7 @@
 # Project Overview: Universal CI/CD Pipeline
 
+**Keywords:** `#CICD` `#GitHubActions` `#DevOps` `#Automation` `#ReusableWorkflows` `#DeploymentPipeline` `#DeveloperTools`
+
 ## 🎯 Vision
 
 A single, reusable CI/CD pipeline that can be integrated into any project type through simple configuration files, eliminating the need to write custom pipeline code for each project.
@@ -312,6 +314,16 @@ Inspired by:
 - **Issues**: [Issues Link]
 - **Discussions**: [Discussions Link]
 - **Email**: [Contact Email]
+
+## 🏷️ Repository Tags & Keywords
+
+**Core Topics:** `ci-cd`, `github-actions`, `devops`, `automation`, `docker`, `deployment`, `continuous-integration`, `continuous-deployment`, `pipeline`, `reusable-workflows`
+
+**Technology Stack:** `nodejs`, `python`, `react`, `nextjs`, `flask`, `django`, `vue`, `docker`, `bash`, `shell-scripting`
+
+**Platforms:** `aws`, `heroku`, `vercel`, `netlify`, `docker-hub`, `aws-s3`, `aws-ec2`, `cloud-deployment`
+
+**Features:** `build-automation`, `test-automation`, `deploy-automation`, `slack-notifications`, `secrets-management`, `multi-environment`, `matrix-builds`
 
 ---
 
