@@ -277,7 +277,7 @@ A powerful, reusable CI/CD pipeline template for GitHub Actions. Deploy to Docke
 
 ---
 
-**Last Updated:** 2025-11-23
+**Last Updated:** 2024-06-10
 
 **Note:** This is a living document. Update it as the project evolves and new features are added!
 
